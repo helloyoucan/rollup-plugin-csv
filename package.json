@@ -1,0 +1,19 @@
+{
+  "name": "rollup-plugin-csv",
+  "version": "1.0.2",
+  "description": "load csv file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vite",
+    "rollup",
+    "csv"
+  ],
+  "author": "helloyoucan",
+  "license": "ISC",
+  "dependencies": {
+    "papaparse": "^5.3.0"
+  }
+}
